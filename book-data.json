@@ -1,0 +1,699 @@
+{
+  "passageNumber": 33,
+  "title": "Drink Enough Water",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Drink Enough Water",
+      "cn": "第 33 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "Water is really important for your body.",
+      "cn": "水对你的身体非常重要。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move!",
+      "cn": "它帮助你保持健康强壮，让你的大脑更容易思考，也让身体更容易活动！",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "Sometimes, we forget to drink enough water.",
+      "cn": "有时候，我们会忘记喝足够的水。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "Here are some fun ideas to help you drink more every day:",
+      "cn": "这里有一些有趣的方法，帮助你每天多喝水：",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "Get a Fun Water Bottle:",
+      "cn": "准备一个有趣的水瓶：",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "Get a water bottle in your favourite colour or with a cool design.",
+      "cn": "准备一个你最喜欢颜色或有很酷设计的水瓶。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "This makes drinking water more fun!",
+      "cn": "这会让喝水更有趣！",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "Add Fruit to Your Water:",
+      "cn": "给水里加水果：",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "Try putting slices of orange, strawberries or lemon in your water.",
+      "cn": "试着把橙子片、草莓或柠檬放进水里。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "It not only tastes great but also looks lovely!",
+      "cn": "它不仅味道很棒，看起来也很漂亮！",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "Set Reminders:",
+      "cn": "设置提醒：",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "Ask an adult to remind you to drink water during the day.",
+      "cn": "请成年人提醒你白天喝水。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/13.png",
+      "en": "You could also set a timer!",
+      "cn": "你也可以设置一个计时器！",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/14.png",
+      "en": "Remember, drinking water helps you feel good, play well, and think clearly.",
+      "cn": "记住，喝水能帮助你感觉良好、玩得开心、思考清楚。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/15.png",
+      "en": "Let’s drink enough water every day so we can stay happy and healthy!",
+      "cn": "让我们每天喝足够的水，这样就能保持快乐和健康！",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "add": {
+      "phonetic": "[æd]",
+      "translation": "添加",
+      "cardId": "core-009"
+    },
+    "adult": {
+      "phonetic": "[ˈædʌlt]",
+      "translation": "成年人",
+      "cardId": "core-013"
+    },
+    "also": {
+      "phonetic": "/ˈɔlsoʊ/",
+      "translation": "还"
+    },
+    "an": {
+      "phonetic": "/ən/",
+      "translation": "一个；一"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "ask": {
+      "phonetic": "/æsk/",
+      "translation": "问"
+    },
+    "body": {
+      "phonetic": "[ˈbɒdi]",
+      "translation": "身体",
+      "cardId": "core-002"
+    },
+    "bottle": {
+      "phonetic": "[ˈbɒtl]",
+      "translation": "瓶子",
+      "cardId": "core-006"
+    },
+    "brain": {
+      "phonetic": "[breɪn]",
+      "translation": "大脑",
+      "cardId": "core-003"
+    },
+    "but": {
+      "phonetic": "/bət/",
+      "translation": "但"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "clearly": {
+      "phonetic": "[ˈklɪəli]",
+      "translation": "清楚地",
+      "cardId": "core-014"
+    },
+    "colour": {
+      "phonetic": "[ˈkʌlə(r)]",
+      "translation": "颜色",
+      "cardId": "core-007"
+    },
+    "cool": {
+      "phonetic": "/kul/",
+      "translation": "凉爽的"
+    },
+    "could": {
+      "phonetic": "/kʊd/",
+      "translation": "可以"
+    },
+    "day": {
+      "phonetic": "/deɪ/",
+      "translation": "天"
+    },
+    "design": {
+      "phonetic": "[dɪˈzaɪn]",
+      "translation": "设计",
+      "cardId": "core-008"
+    },
+    "drink": {
+      "phonetic": "[drɪŋk]",
+      "translation": "喝；饮料",
+      "cardId": "core-004"
+    },
+    "drinking": {
+      "phonetic": "/ˈdrɪŋkɪŋ/",
+      "translation": "喝"
+    },
+    "during": {
+      "phonetic": "/ˈdʊrɪŋ/",
+      "translation": "期间"
+    },
+    "easier": {
+      "phonetic": "/ˈiziər/",
+      "translation": "更轻松"
+    },
+    "enough": {
+      "phonetic": "/ɪˈnəf/",
+      "translation": "足够的"
+    },
+    "every": {
+      "phonetic": "/ˈɛvəri/",
+      "translation": "每一个"
+    },
+    "favourite": {
+      "phonetic": "/ˈfeɪvərɪt/",
+      "translation": "最喜欢的"
+    },
+    "feel": {
+      "phonetic": "/fil/",
+      "translation": "感觉"
+    },
+    "for": {
+      "phonetic": "/fɔːr/",
+      "translation": "为了；给"
+    },
+    "forget": {
+      "phonetic": "/fərˈgɛt/",
+      "translation": "忘记"
+    },
+    "fruit": {
+      "phonetic": "/frut/",
+      "translation": "水果"
+    },
+    "fun": {
+      "phonetic": "/fən/",
+      "translation": "乐趣"
+    },
+    "get": {
+      "phonetic": "/gɪt/",
+      "translation": "得到"
+    },
+    "good": {
+      "phonetic": "/gʊd/",
+      "translation": "好的"
+    },
+    "great": {
+      "phonetic": "/greɪt/",
+      "translation": "伟大的"
+    },
+    "happy": {
+      "phonetic": "/ˈhæpi/",
+      "translation": "快乐的"
+    },
+    "healthy": {
+      "phonetic": "/ˈhɛlθi/",
+      "translation": "健康"
+    },
+    "help": {
+      "phonetic": "/hɛlp/",
+      "translation": "帮助"
+    },
+    "helps": {
+      "phonetic": "/hɛlps/",
+      "translation": "帮助"
+    },
+    "here": {
+      "phonetic": "[hɪə(r)]",
+      "translation": "这里",
+      "cardId": "core-005"
+    },
+    "ideas": {
+      "phonetic": "/aɪˈdiəz/",
+      "translation": "想法"
+    },
+    "important": {
+      "phonetic": "/ˌɪmˈpɔrtənt/",
+      "translation": "重要的"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "translation": "它"
+    },
+    "keep": {
+      "phonetic": "/kip/",
+      "translation": "保持"
+    },
+    "lemon": {
+      "phonetic": "[ˈlemən]",
+      "translation": "柠檬",
+      "cardId": "core-011"
+    },
+    "lets": {
+      "phonetic": "/lɛts/",
+      "translation": "让我们"
+    },
+    "looks": {
+      "phonetic": "/lʊks/",
+      "translation": "看起来"
+    },
+    "lovely": {
+      "phonetic": "/ˈləvli/",
+      "translation": "迷人的"
+    },
+    "makes": {
+      "phonetic": "/meɪks/",
+      "translation": "使"
+    },
+    "making": {
+      "phonetic": "/ˈmeɪkɪŋ/",
+      "translation": "制作"
+    },
+    "more": {
+      "phonetic": "/mɔr/",
+      "translation": "更多的"
+    },
+    "move": {
+      "phonetic": "/muv/",
+      "translation": "移动"
+    },
+    "not": {
+      "phonetic": "/nɑt/",
+      "translation": "不是"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "only": {
+      "phonetic": "/ˈoʊnli/",
+      "translation": "仅有的"
+    },
+    "or": {
+      "phonetic": "/ɔːr/",
+      "translation": "或者"
+    },
+    "orange": {
+      "phonetic": "/ˈɔrɪnʤ/",
+      "translation": "橙子"
+    },
+    "play": {
+      "phonetic": "/pleɪ/",
+      "translation": "玩"
+    },
+    "putting": {
+      "phonetic": "/ˈpʊtɪŋ/",
+      "translation": "推杆"
+    },
+    "really": {
+      "phonetic": "/ˈrɪli/",
+      "translation": "真的"
+    },
+    "remember": {
+      "phonetic": "/rɪˈmɛmbər/",
+      "translation": "记住"
+    },
+    "remind": {
+      "phonetic": "/riˈmaɪnd/",
+      "translation": "提醒"
+    },
+    "reminder": {
+      "phonetic": "[rɪˈmaɪndə(r)]",
+      "translation": "提醒物",
+      "cardId": "core-012"
+    },
+    "reminders": {
+      "phonetic": "/riˈmaɪndərz/",
+      "translation": "提醒"
+    },
+    "set": {
+      "phonetic": "/sɛt/",
+      "translation": "放"
+    },
+    "slice": {
+      "phonetic": "[slaɪs]",
+      "translation": "片",
+      "cardId": "core-010"
+    },
+    "slices": {
+      "phonetic": "/sˈlaɪsɪz/",
+      "translation": "切片"
+    },
+    "so": {
+      "phonetic": "/soʊ/",
+      "translation": "所以"
+    },
+    "some": {
+      "phonetic": "/səm/",
+      "translation": "一些"
+    },
+    "sometimes": {
+      "phonetic": "/ˈsəmˌtaɪmz/",
+      "translation": "有时"
+    },
+    "stay": {
+      "phonetic": "/steɪ/",
+      "translation": "停留"
+    },
+    "strawberries": {
+      "phonetic": "/ˈstrɔˌbɛriz/",
+      "translation": "草莓"
+    },
+    "strong": {
+      "phonetic": "/strɔŋ/",
+      "translation": "强的"
+    },
+    "tastes": {
+      "phonetic": "/teɪsts/",
+      "translation": "口味"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "think": {
+      "phonetic": "/θɪŋk/",
+      "translation": "思考"
+    },
+    "this": {
+      "phonetic": "/ðɪs/",
+      "translation": "这"
+    },
+    "timer": {
+      "phonetic": "/ˈtaɪmər/",
+      "translation": "定时器"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "try": {
+      "phonetic": "/traɪ/",
+      "translation": "尝试"
+    },
+    "water": {
+      "phonetic": "[ˈwɔːtə(r)]",
+      "translation": "水",
+      "cardId": "core-001"
+    },
+    "we": {
+      "phonetic": "/wiː/",
+      "translation": "我们"
+    },
+    "well": {
+      "phonetic": "/wɛl/",
+      "translation": "出色地"
+    },
+    "with": {
+      "phonetic": "/wɪð/",
+      "translation": "和；带有"
+    },
+    "you": {
+      "phonetic": "/juː/",
+      "translation": "你；你们"
+    },
+    "your": {
+      "phonetic": "/jʊr/",
+      "translation": "你的；你们的"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "water",
+      "speak": "water",
+      "phonetic": "[ˈwɔːtə(r)]",
+      "meaning": "水",
+      "memory": "water → 水",
+      "match": "water",
+      "example": "Water is really important for your body. 水对你的身体非常重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "body",
+      "speak": "body",
+      "phonetic": "[ˈbɒdi]",
+      "meaning": "身体",
+      "memory": "body → 身体",
+      "match": "body",
+      "example": "Water is really important for your body. 水对你的身体非常重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "brain",
+      "speak": "brain",
+      "phonetic": "[breɪn]",
+      "meaning": "大脑",
+      "memory": "brain → 大脑",
+      "match": "brain",
+      "example": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move! 它帮助你保持健康强壮，让你的大脑更容易思考，也让身体更容易活动！",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "drink",
+      "speak": "drink",
+      "phonetic": "[drɪŋk]",
+      "meaning": "喝；饮料",
+      "memory": "drink → 喝；饮料",
+      "match": "drink",
+      "example": "Sometimes, we forget to drink enough water. 有时候，我们会忘记喝足够的水。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "here",
+      "speak": "here",
+      "phonetic": "[hɪə(r)]",
+      "meaning": "这里",
+      "memory": "here → 这里",
+      "match": "here",
+      "example": "Here are some fun ideas to help you drink more every day: 这里有一些有趣的方法，帮助你每天多喝水：",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "bottle",
+      "speak": "bottle",
+      "phonetic": "[ˈbɒtl]",
+      "meaning": "瓶子",
+      "memory": "bottle → 瓶子",
+      "match": "bottle",
+      "example": "Get a Fun Water Bottle: 准备一个有趣的水瓶：",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "colour",
+      "speak": "colour",
+      "phonetic": "[ˈkʌlə(r)]",
+      "meaning": "颜色",
+      "memory": "colour → 颜色",
+      "match": "colour",
+      "example": "Get a water bottle in your favourite colour or with a cool design. 准备一个你最喜欢颜色或有很酷设计的水瓶。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "design",
+      "speak": "design",
+      "phonetic": "[dɪˈzaɪn]",
+      "meaning": "设计",
+      "memory": "design → 设计",
+      "match": "design",
+      "example": "Get a water bottle in your favourite colour or with a cool design. 准备一个你最喜欢颜色或有很酷设计的水瓶。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "add",
+      "speak": "add",
+      "phonetic": "[æd]",
+      "meaning": "添加",
+      "memory": "add → 添加",
+      "match": "add",
+      "example": "Add Fruit to Your Water: 给水里加水果：",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "slice",
+      "speak": "slice",
+      "phonetic": "[slaɪs]",
+      "meaning": "片",
+      "memory": "slice → 片",
+      "match": "slice",
+      "example": "Water is really important for your body. 水对你的身体非常重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "lemon",
+      "speak": "lemon",
+      "phonetic": "[ˈlemən]",
+      "meaning": "柠檬",
+      "memory": "lemon → 柠檬",
+      "match": "lemon",
+      "example": "Try putting slices of orange, strawberries or lemon in your water. 试着把橙子片、草莓或柠檬放进水里。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "reminder",
+      "speak": "reminder",
+      "phonetic": "[rɪˈmaɪndə(r)]",
+      "meaning": "提醒物",
+      "memory": "reminder → 提醒物",
+      "match": "reminder",
+      "example": "Water is really important for your body. 水对你的身体非常重要。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "adult",
+      "speak": "adult",
+      "phonetic": "[ˈædʌlt]",
+      "meaning": "成年人",
+      "memory": "adult → 成年人",
+      "match": "adult",
+      "example": "Ask an adult to remind you to drink water during the day. 请成年人提醒你白天喝水。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "clearly",
+      "speak": "clearly",
+      "phonetic": "[ˈklɪəli]",
+      "meaning": "清楚地",
+      "memory": "clearly → 清楚地",
+      "match": "clearly",
+      "example": "Remember, drinking water helps you feel good, play well, and think clearly. 记住，喝水能帮助你感觉良好、玩得开心、思考清楚。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "water",
+      "phonetic": "[ˈwɔːtə(r)]",
+      "meaning": "水"
+    },
+    {
+      "word": "body",
+      "phonetic": "[ˈbɒdi]",
+      "meaning": "身体"
+    },
+    {
+      "word": "brain",
+      "phonetic": "[breɪn]",
+      "meaning": "大脑"
+    },
+    {
+      "word": "drink",
+      "phonetic": "[drɪŋk]",
+      "meaning": "喝；饮料"
+    },
+    {
+      "word": "here",
+      "phonetic": "[hɪə(r)]",
+      "meaning": "这里"
+    },
+    {
+      "word": "bottle",
+      "phonetic": "[ˈbɒtl]",
+      "meaning": "瓶子"
+    },
+    {
+      "word": "colour",
+      "phonetic": "[ˈkʌlə(r)]",
+      "meaning": "颜色"
+    },
+    {
+      "word": "design",
+      "phonetic": "[dɪˈzaɪn]",
+      "meaning": "设计"
+    },
+    {
+      "word": "add",
+      "phonetic": "[æd]",
+      "meaning": "添加"
+    },
+    {
+      "word": "slice",
+      "phonetic": "[slaɪs]",
+      "meaning": "片"
+    },
+    {
+      "word": "lemon",
+      "phonetic": "[ˈlemən]",
+      "meaning": "柠檬"
+    },
+    {
+      "word": "reminder",
+      "phonetic": "[rɪˈmaɪndə(r)]",
+      "meaning": "提醒物"
+    },
+    {
+      "word": "adult",
+      "phonetic": "[ˈædʌlt]",
+      "meaning": "成年人"
+    },
+    {
+      "word": "clearly",
+      "phonetic": "[ˈklɪəli]",
+      "meaning": "清楚地"
+    }
+  ]
+}

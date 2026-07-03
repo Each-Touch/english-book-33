@@ -1,0 +1,89 @@
+{
+  "voice": "adult male | teacher clear",
+  "reference": "12-adult-male-teacher-clear.wav",
+  "cfg_value": 1.35,
+  "inference_timesteps": 12,
+  "normalize": false,
+  "pages": [
+    {
+      "page": 0,
+      "visible": "Drink Enough Water",
+      "speech": "Drink Enough Water"
+    },
+    {
+      "page": 1,
+      "visible": "Water is really important for your body.",
+      "speech": "Water is really important for your body."
+    },
+    {
+      "page": 2,
+      "visible": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move!",
+      "speech": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move!"
+    },
+    {
+      "page": 3,
+      "visible": "Sometimes, we forget to drink enough water.",
+      "speech": "Sometimes, we forget to drink enough water."
+    },
+    {
+      "page": 4,
+      "visible": "Here are some fun ideas to help you drink more every day:",
+      "speech": "Here are some fun ideas to help you drink more every day:"
+    },
+    {
+      "page": 5,
+      "visible": "Get a Fun Water Bottle:",
+      "speech": "Get a Fun Water Bottle:"
+    },
+    {
+      "page": 6,
+      "visible": "Get a water bottle in your favourite colour or with a cool design.",
+      "speech": "Get a water bottle in your favourite colour or with a cool design."
+    },
+    {
+      "page": 7,
+      "visible": "This makes drinking water more fun!",
+      "speech": "This makes drinking water more fun!"
+    },
+    {
+      "page": 8,
+      "visible": "Add Fruit to Your Water:",
+      "speech": "Add Fruit to Your Water:"
+    },
+    {
+      "page": 9,
+      "visible": "Try putting slices of orange, strawberries or lemon in your water.",
+      "speech": "Try putting slices of orange, strawberries or lemon in your water."
+    },
+    {
+      "page": 10,
+      "visible": "It not only tastes great but also looks lovely!",
+      "speech": "It not only tastes great but also looks lovely!"
+    },
+    {
+      "page": 11,
+      "visible": "Set Reminders:",
+      "speech": "Set Reminders:"
+    },
+    {
+      "page": 12,
+      "visible": "Ask an adult to remind you to drink water during the day.",
+      "speech": "Ask an adult to remind you to drink water during the day."
+    },
+    {
+      "page": 13,
+      "visible": "You could also set a timer!",
+      "speech": "You could also set a timer!"
+    },
+    {
+      "page": 14,
+      "visible": "Remember, drinking water helps you feel good, play well, and think clearly.",
+      "speech": "Remember, drinking water helps you feel good, play well, and think clearly."
+    },
+    {
+      "page": 15,
+      "visible": "Let’s drink enough water every day so we can stay happy and healthy!",
+      "speech": "Let's drink enough water every day so we can stay happy and healthy!"
+    }
+  ]
+}
