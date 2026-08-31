@@ -1,89 +1,195 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Drink Enough Water",
-      "speech": "Drink Enough Water"
+      "speech": "Drink Enough Water",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 3.297,
+      "raw_duration_seconds": 1.6,
+      "asr": "Drink enough water.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
       "visible": "Water is really important for your body.",
-      "speech": "Water is really important for your body."
+      "speech": "Water is really important for your body.",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 4.47,
+      "raw_duration_seconds": 2.56,
+      "asr": "Water is really important for your body.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
       "visible": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move!",
-      "speech": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move!"
+      "speech": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move!",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 9.799,
+      "raw_duration_seconds": 6.08,
+      "asr": "It helps keep you healthy and strong, making it easier for your brain to think and your body to move.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
       "visible": "Sometimes, we forget to drink enough water.",
-      "speech": "Sometimes, we forget to drink enough water."
+      "speech": "Sometimes, we forget to drink enough water.",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 5.317,
+      "raw_duration_seconds": 2.88,
+      "asr": "Sometimes we forget to drink enough water.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
       "visible": "Here are some fun ideas to help you drink more every day:",
-      "speech": "Here are some fun ideas to help you drink more every day:"
+      "speech": "Here are some fun ideas to help you drink more every day:",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 7.059,
+      "raw_duration_seconds": 3.84,
+      "asr": "Here are some fun ideas to help you drink more every day.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
       "visible": "Get a Fun Water Bottle:",
-      "speech": "Get a Fun Water Bottle:"
+      "speech": "Get a Fun Water Bottle:",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 3.39,
+      "raw_duration_seconds": 2.24,
+      "asr": "Get a fun water bottle.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "Get a water bottle in your favourite colour or with a cool design.",
-      "speech": "Get a water bottle in your favourite colour or with a cool design."
+      "speech": "Get a water bottle in your favourite colour or with a cool design.",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 6.92,
+      "raw_duration_seconds": 3.52,
+      "asr": "Get a water bottle in your favorite color or with a cool design.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "This makes drinking water more fun!",
-      "speech": "This makes drinking water more fun!"
+      "speech": "This makes drinking water more fun!",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 5.085,
+      "raw_duration_seconds": 2.88,
+      "asr": "This makes drinking water more fun.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
       "visible": "Add Fruit to Your Water:",
-      "speech": "Add Fruit to Your Water:"
+      "speech": "Add Fruit to Your Water:",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 3.297,
+      "raw_duration_seconds": 1.92,
+      "asr": "Add fruit to your water.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
       "visible": "Try putting slices of orange, strawberries or lemon in your water.",
-      "speech": "Try putting slices of orange, strawberries or lemon in your water."
+      "speech": "Try putting slices of orange, strawberries or lemon in your water.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 7.964,
+      "raw_duration_seconds": 4.16,
+      "asr": "Try putting slices of orange, strawberries or lemon in your water.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
       "visible": "It not only tastes great but also looks lovely!",
-      "speech": "It not only tastes great but also looks lovely!"
+      "speech": "It not only tastes great but also looks lovely!",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 5.979,
+      "raw_duration_seconds": 3.2,
+      "asr": "It not only tastes great, but also looks lovely.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
       "visible": "Set Reminders:",
-      "speech": "Set Reminders:"
+      "speech": "Set Reminders:",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 3.007,
+      "raw_duration_seconds": 1.6,
+      "asr": "Set Reminders",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 12,
       "visible": "Ask an adult to remind you to drink water during the day.",
-      "speech": "Ask an adult to remind you to drink water during the day."
+      "speech": "Ask an adult to remind you to drink water during the day.",
+      "file": "sentences/page-12.mp3",
+      "duration_seconds": 6.409,
+      "raw_duration_seconds": 3.04,
+      "asr": "Ask an adult to remind you to drink water during the day.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 13,
       "visible": "You could also set a timer!",
-      "speech": "You could also set a timer!"
+      "speech": "You could also set a timer!",
+      "file": "sentences/page-13.mp3",
+      "duration_seconds": 4.609,
+      "raw_duration_seconds": 2.08,
+      "asr": "You could also set a timer.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 14,
       "visible": "Remember, drinking water helps you feel good, play well, and think clearly.",
-      "speech": "Remember, drinking water helps you feel good, play well, and think clearly."
+      "speech": "Remember, drinking water helps you feel good, play well, and think clearly.",
+      "file": "sentences/page-14.mp3",
+      "duration_seconds": 7.488,
+      "raw_duration_seconds": 4.96,
+      "asr": "Remember, drinking water helps you feel good, play well and think clearly.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 15,
-      "visible": "Let’s drink enough water every day so we can stay happy and healthy!",
-      "speech": "Let's drink enough water every day so we can stay happy and healthy!"
+      "visible": "Let's drink enough water every day so we can stay happy and healthy!",
+      "speech": "Let's drink enough water every day so we can stay happy and healthy!",
+      "file": "sentences/page-15.mp3",
+      "duration_seconds": 7.814,
+      "raw_duration_seconds": 3.68,
+      "asr": "Let's drink enough water every day so we can stay happy and healthy.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 16,
+    "asr_exact_count": 16,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
